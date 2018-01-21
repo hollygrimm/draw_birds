@@ -1,0 +1,13 @@
+#input files
+birdimages_64sq/
+#output files
+montage.png
+#checkpoints
+draw/
+.ipynb_checkpoints/birds-checkpoint.ipynb
+# Byte-compiled / optimized / DLL files
+__pycache__/
+birds.ipynb
+
+
+
