@@ -51,7 +51,13 @@ Execute to view loss chart and image reconstructions:
 tensorboard --logdir=.
 ```
 
+## Author
+- Author: [@pkmital](https://github.com/pkmital)
+- Contributor: [@hollygrimm](https://github.com/hollygrimm)
+
 
 ## Further Reading
 
 [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
+
+
